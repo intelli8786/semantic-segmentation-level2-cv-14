@@ -1,3 +1,5 @@
+개인 리포트 [Report_T2060.pdf](https://github.com/intelli8786/semantic-segmentation-level2-cv-14/files/7577735/Report_T2060.pdf)
+
 # 재활용 쓰레기 Semantic Segmentation
 
 <img src="https://user-images.githubusercontent.com/44287798/140461430-78e5cd84-2162-4f98-9d27-bbc3a8580f90.png" width="400">  <img src="https://user-images.githubusercontent.com/44287798/140461384-a0a91b44-da3a-4b81-95cb-ec508b978aa7.png" width="400"> 
